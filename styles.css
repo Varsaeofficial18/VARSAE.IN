@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: black;
+    color: gold;
+}
+.logo {
+    height: 80px;
+    margin: 10px;
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+nav a {
+    color: gold;
+    text-decoration: none;
+    font-weight: bold;
+}
+.hero {
+    text-align: center;
+    margin-top: 100px;
+}
+.contact {
+    text-align: center;
+    margin-top: 100px;
+    border-top: 1px solid gold;
+    padding-top: 20px;
+}
